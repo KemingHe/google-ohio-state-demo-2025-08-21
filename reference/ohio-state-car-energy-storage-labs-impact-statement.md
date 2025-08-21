@@ -43,4 +43,4 @@ CAR is committed to broadening participation in STEM through targeted initiative
 
 ---
 
-> Retrived from and fully fact-checked against [https://car.osu.edu/car-energy-storage-labs](https://car.osu.edu/car-energy-storage-labs) on 2025-08-21
+> Retrieved from and fully fact-checked against [https://car.osu.edu/car-energy-storage-labs](https://car.osu.edu/car-energy-storage-labs) on 2025-08-21

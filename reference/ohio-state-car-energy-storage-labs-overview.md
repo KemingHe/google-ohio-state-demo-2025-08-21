@@ -46,4 +46,4 @@ Strategic collaborations with leading automotive and energy organizations:
 
 ---
 
-> Retrived from and fully fact-checked against [https://car.osu.edu/car-energy-storage-labs](https://car.osu.edu/car-energy-storage-labs) on 2025-08-21
+> Retrieved from and fully fact-checked against [https://car.osu.edu/car-energy-storage-labs](https://car.osu.edu/car-energy-storage-labs) on 2025-08-21
