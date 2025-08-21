@@ -13,24 +13,27 @@
     - Electrochemical energy storage systems and fault diagnosis
     - Hybrid/electric vehicle energy management and functional safety
   - **Notes**:
-    - Fellow: IEEE (2004), SAE (2005), ASME (2022)
-    - 1991 NSF Presidential Young Investigator Award
+    - IEEE Life Fellow (2024), Fellow: IEEE (2004), SAE (2005), ASME (2022)
+    - 1991 NSF Presidential Young Investigator Award, Distinguished Graduate Faculty Award (2024)
+    - Ford Motor Chair in Electromechanical Systems, CAR Director since 1999
     - Grew CAR research from $1M to $14M+ annually
     - 500+ publications, 40+ PhD advisees
 
 - **Marcello Canova**
-  - **Title**: Professor, MAE; Associate Director for Graduate Education, CAR
+  - **Title**: Professor, MAE; Associate Chair for Graduate Programs; Associate Director for Research and Education, CAR
   - **Email**: [canova.1@osu.edu](mailto:canova.1@osu.edu)
   - **Phone**: (614) 247-2336
   - **Specializations**:
     - Energy optimization and management of vehicle propulsion systems
-    - Hybrid-electric drivetrains, energy storage, thermal management
-    - Waste heat recovery and engine control systems
+    - Lithium-ion battery modeling, control, and parameter identification
+    - Hybrid-electric drivetrains, thermal management, and eco-driving
+    - Waste heat recovery and advanced engine control systems
   - **Notes**:
-    - 2016 NSF CAREER Award recipient
-    - NSF Program Manager (2-year appointment, 2024-2026)
-    - Multiple awards: SAE Vincent Bendix (2011), Lumley Research (2012, 2020)
-    - 150+ publications, funded by Ford/GM/Stellantis/DOE/ARPA-E
+    - NSF Program Manager (2-year IPA appointment, Division of Civil, Mechanical and Manufacturing Innovation)
+    - 2016 NSF CAREER Award recipient, 2017 Michael J. Moran Award for Excellence in Teaching
+    - Awards: Lumley Interdisciplinary Research (2012, 2020), SAE Ralph E. Teetor Education (2016), SAE Vincent Bendix (2011)
+    - 150+ publications, 62 peer-reviewed journal articles, extensive industry funding
+    - CAR tenure since 2006: Post-doc → Research Associate → Senior Research Associate → Faculty (2011-present)
 
 - **Jung Hyun Kim**
   - **Title**: Associate Professor, MAE; Courtesy Associate Professor, MSE
@@ -40,10 +43,11 @@
     - Energy storage materials synthesis, cell fabrication, and characterization
     - Battery testing and thermal management systems
   - **Notes**:
-    - Stanley Harrison Faculty Award recipient (2024)
-    - Director of Energy Innovation Lab (NanoTech West)
-    - PhD 2009 UT Austin, Postdoc ORNL, Senior Researcher GM (2010-2016)
-    - Developed unique ME6194 course: 70% lecture + 30% lab experiments
+    - Stanley Harrison Faculty Award for Excellence in Engineering Education (2024)
+    - Director of Energy Innovation Lab (collaboration: CAR, IMR, NanoTech West)
+    - PhD 2009 UT Austin, Postdoc ORNL, Senior Battery Researcher GM Global R&D (2010-2016)
+    - Developed unique ME6194 course: 70% lecture + 30% hands-on lab experiments
+    - Mission: "Make battery cells that last longer, for driving longer at high power and high energies"
 
 - **Matilde D'Arpino**
   - **Title**: Research Assistant Professor, MAE; Assistant Professor, ECE
@@ -55,8 +59,9 @@
     - Second-life battery systems, aging characterization, lifetime estimation
   - **Notes**:
     - IEEE Senior Member (2024)
-    - Lead PI/Co-PI on DOE, NASA, AFRL projects
-    - PhD 2014 University of Cassino, 50+ publications
+    - Lead PI/Co-PI on DOE, NASA, AFRL projects focusing on electric aircraft energy storage
+    - PhD 2014 University of Cassino, 50+ publications in high-performance electric systems
+    - Key contributor to $10M NASA ULI electric propulsion project
     - Affiliated: CAR, Center for High Performance Power Electronics, Sustainability Institute
 
 - **Faissal El Idrissi**
