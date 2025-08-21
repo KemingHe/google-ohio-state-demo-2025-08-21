@@ -65,7 +65,18 @@ Address universal faculty pain point: finding relevant grants and aligning insti
 
 **Step 1: Find the Opportunity** (Gemini)
 
-- Prompt: "Find a current Department of Energy funding opportunity for electric vehicle battery development"
+- **Prompt**:
+
+```plaintext
+Find current DOE funding opportunities for electric vehicle battery development. For each opportunity, provide:
+- Funding opportunity title and number
+- Direct links to both funding PDF and website description
+- Brief summary of focus areas
+- Application deadlines
+
+Use web search only, not deep research. Today is 2025-08-21.
+```
+
 - **Value**: Solves "needle in a haystack" problem of grant discovery
 
 **Step 2: Upload Grant Document** (NotebookLM)
@@ -75,7 +86,28 @@ Address universal faculty pain point: finding relevant grants and aligning insti
 
 **Step 3: Generate Alignment Analysis** (NotebookLM)  
 
-- Prompt: "Draft a 'Statement of Need' showing how Dr. Alexander Steve's CV, CAR facilities, and preliminary data align with this funding announcement's objectives"
+- **Prompts**:
+
+  - ```plaintext
+    Draft a 'Statement of Need' showing how Dr. Alexander Steve's CV, CAR facilities, and preliminary data align with this funding announcement's objectives.
+    ```
+
+  - ```plaintext
+    Analyze Topic Area 1 (Lithium-ion Cell Safety) requirements against our team capabilities and suggest the strongest alignment areas.
+    ```
+
+  - ```plaintext
+    Compare our preliminary electrolyte research results with the funding priorities and highlight competitive advantages.
+    ```
+
+  - ```plaintext
+    Create a brief project summary that connects our solid-state battery expertise to the DOE program goals.
+    ```
+
+  - ```plaintext
+    Generate a team qualifications section emphasizing relevant CAR Energy Storage Labs infrastructure and Dr. Steven's publications.
+    ```
+
 - **Value**: Automates the "connecting the dots" intellectual heavy lifting
 
 ### Expected Outcome
