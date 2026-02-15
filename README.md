@@ -1,11 +1,12 @@
 # ⚠️ [Archived] ⚠️ KemingHe/google-ohio-state-demo-2025-08-21
 
 > [!WARNING]
+>
 > **This repository is archived and no longer maintained.**
 >
 > - **Archived**: 2025-08-21 by [@KemingHe](https://github.com/KemingHe)
-> - **Archive reason**: Google Public Sector & Ohio State University 2025 Data & AI Day concluded on 2025-08-21
-> - **Inquiries and corrections**: email [keminghe.career@gmail.com](mailto:keminghe.career@gmail.com)
+> - **Archive Reason**: Google Public Sector & Ohio State University 2025 Data & AI Day concluded on 2025-08-21
+> - **Inquries and Corrections**: Email keminghe[dot]career[at]gmail[dot]com
 
 Archive for Google x Ohio State 2025 Data & AI Day "Grant Proposal Accelerator" demo showcasing seamless integration of Gemini Pro and NotebookLM for faculty research workflows.
 
